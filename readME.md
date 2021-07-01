@@ -59,7 +59,7 @@
       collar system to determine if the user should receive a push notification 
       to alert them of a potential trigger for their dog, whether the other 
       user has a smaller breed which your dog should avoid, a nervous dog 
-      that you need to be considerate of, or if the dog is listed as 
+      that you need to be considerate of, or if the dog is listed as <br>
       "non-friendly" and all in the area need to practice a safe social distance. 
       <img align="right" src="https://media.giphy.com/media/VDMFEqsctMllI14x0k/giphy.gif" height="60">
       </div>
