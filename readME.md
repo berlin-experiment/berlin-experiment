@@ -26,6 +26,12 @@
 * Previous Education + Qualifications:
   * B.A. Criminology + Geography & Enviromental Sciences obtained at <a href="https://www.monash.edu/">Monash University</a> 
 
+<div align="center">
+  <img src="https://womenhack.com/wp-content/uploads/job-manager-uploads/company_avatar/2018/06/code-university-logo.png" width="200"> 
+  <br>
+  <img src="https://ddfoqzqsu0zvp.cloudfront.net/media/documents/monash_logo.png" width="200">
+</div>
+
 <br>
 
 * I’m currently learning: <img src="https://media.giphy.com/media/u3WERoLDzAPfHM0UOc/giphy.gif" height="60">
@@ -59,10 +65,22 @@
       collar system to determine if the user should receive a push notification 
       to alert them of a potential trigger for their dog, whether the other 
       user has a smaller breed which your dog should avoid, a nervous dog 
-      that you need to be considerate of, or if the dog is listed as <br>
+      that you need to be considerate of, or if the dog is listed as
       "non-friendly" and all in the area need to practice a safe social distance. 
-      <img align="right" src="https://media.giphy.com/media/VDMFEqsctMllI14x0k/giphy.gif" height="60">
       </div>
+<br>
+
+<div align="center">
+  <img src="https://github.com/berlin-experiment/PoochPing/blob/master/Intro.gif" width="600">
+  <br>
+  <img src="https://github.com/berlin-experiment/Code-Challenge-Dog-App/blob/fce7ca439fccaf2e3b0311e443c152b30d1d75ce/ReadMe-github/demo-preview-active.png"          width="600">
+  <br>
+  <img src="https://github.com/berlin-experiment/Code-Challenge-Dog-App/blob/c091a71c072f48a36919854bf52f95d74c932053/ReadMe-github/PoochPing-ColorCollars.gif"      width="600"v>
+</div>
+
+<div align="center">
+Project Link <a href="https://berlin-experiment.github.io/PoochPing/">Here</a>  
+</div>
 
 <br>
 <br>
@@ -76,10 +94,14 @@
 <br>
 <br>
 
+<div align="center">
+  This readME is still in progress...
+</div>
+  
 <hr>
 
 <div align="center">
-<a href="mailto:staceykenny@outlook.com"><img src="https://img.icons8.com/nolan/64/email.png" height="70"/></a>
-<br>
-Contact Me
+  <a href="mailto:staceykenny@outlook.com"><img src="https://img.icons8.com/nolan/64/email.png" height="70"/></a>
+  <br>
+  Contact Me
 </div>
