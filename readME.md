@@ -71,11 +71,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/berlin-experiment/PoochPing/blob/master/Intro.gif" width="600">
-  <br>
   <img src="https://github.com/berlin-experiment/Code-Challenge-Dog-App/blob/fce7ca439fccaf2e3b0311e443c152b30d1d75ce/ReadMe-github/demo-preview-active.png"          width="600">
-  <br>
-  <img src="https://github.com/berlin-experiment/Code-Challenge-Dog-App/blob/c091a71c072f48a36919854bf52f95d74c932053/ReadMe-github/PoochPing-ColorCollars.gif"      width="600"v>
 </div>
 
 <div align="center">
