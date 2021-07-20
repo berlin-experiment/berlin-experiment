@@ -27,11 +27,13 @@
   * B.A. Criminology + Geography & Enviromental Sciences obtained at <a href="https://www.monash.edu/">Monash University</a> 
 
 <div align="center">
-  <img src="https://womenhack.com/wp-content/uploads/job-manager-uploads/company_avatar/2018/06/code-university-logo.png" width="200"> 
+  <img src="https://womenhack.com/wp-content/uploads/job-manager-uploads/company_avatar/2018/06/code-university-logo.png" width="400"> 
   <br>
-  <img src="https://ddfoqzqsu0zvp.cloudfront.net/media/documents/monash_logo.png" width="200">
+  <img src="https://ddfoqzqsu0zvp.cloudfront.net/media/documents/monash_logo.png" width="400">
 </div>
 
+<br>
+<br>
 <br>
 
 * I’m currently learning: <img src="https://media.giphy.com/media/u3WERoLDzAPfHM0UOc/giphy.gif" height="60">
@@ -71,12 +73,27 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/berlin-experiment/Code-Challenge-Dog-App/blob/fce7ca439fccaf2e3b0311e443c152b30d1d75ce/ReadMe-github/demo-preview-active.png"          width="600">
+  <img src="https://github.com/berlin-experiment/github-imgs/blob/master/poochping.png"          height="400">
 </div>
 
 <div align="center">
 Project Link <a href="https://berlin-experiment.github.io/PoochPing/">Here</a>  
 </div>
+
+<br>
+<br>
+
+   - <a href="https://github.com/berlin-experiment/greenratio-website-template.git">GREENRATIO</a>   
+        <div align="justify"> 
+        Basic Website Template. 
+        Create a website for a small start-up company.
+        </div>
+<br>
+
+<div align="center">
+  <img src="https://github.com/berlin-experiment/github-imgs/blob/master/sm-prev.png"          width="600">
+</div>
+
 
 <br>
 <br>
@@ -93,6 +110,11 @@ Project Link <a href="https://berlin-experiment.github.io/PoochPing/">Here</a>
 <div align="center">
   This readME is still in progress...
 </div>
+ 
+<br>
+<br>
+ 
+ <img src="https://github.com/berlin-experiment/github-imgs/blob/master/pngwing.com-5.png" width="100%"> 
   
 <hr>
 
@@ -101,3 +123,4 @@ Project Link <a href="https://berlin-experiment.github.io/PoochPing/">Here</a>
   <br>
   Contact Me
 </div>
+
