@@ -1,13 +1,16 @@
 <div align="center">
+  <br>
+  
   <img  src="https://media1.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=790b761146ac9a6793d2ef59478ce0d455b1a672eb60a7ff&rid=giphy.gif&ct=s" 
-  alt="" width="120" height="120">
+  alt="" width="150" height="150">
 
-  # _Hey, there! I'm Stacey_ <br> _& Welcome to my Github profile_
+  # _Hey, there! I'm Stacey_ <br> _& Welcome to my Github profile._
   ###### You might not find much here as I am new, but I am busy with many projects which I will make public soon. 
   ###### So keep coming back and you might find something you like... or don't, either way I'll be here.
 </div>
 
 <div align="center">
+  
   <img src="https://img.icons8.com/nolan/64/html-5.png" height="40"/>
   <img src="https://img.icons8.com/nolan/50/css-filetype.png" height="40"/>
   <img src="https://img.icons8.com/nolan/50/javascript.png" height="40"/>
@@ -20,40 +23,36 @@
 </div>
 
 <hr>
-<br>
-
-* B.S. Software Engineering Student at <a href="https://code.berlin/en/">CODE University of Applied Sciences</a> 
-* Previous Education + Qualifications:
-  * B.A. Criminology + Geography & Enviromental Sciences obtained at <a href="https://www.monash.edu/">Monash University</a> 
-
+ <img src="https://github.com/berlin-experiment/github-imgs/blob/master/sections.png?raw=true" align="center" width="100%" height="auto"> 
+ 
+## Interests
 <div align="center">
-  <img src="https://womenhack.com/wp-content/uploads/job-manager-uploads/company_avatar/2018/06/code-university-logo.png" width="400"> 
-  <br>
-  <img src="https://ddfoqzqsu0zvp.cloudfront.net/media/documents/monash_logo.png" width="400">
+• Artificial Intelligence/Machine Learning • Computer vision + Image processing • Data Science + Big Data • Geographical Information Systems 
 </div>
 
-<br>
-<br>
-<br>
+<br>  
+<hr> 
+ <img src="https://github.com/berlin-experiment/github-imgs/blob/master/sections.png?raw=true" align="center" width="100%" height="auto"> 
+ 
+# A bit of Background...
 
-* I’m currently learning: <img src="https://media.giphy.com/media/u3WERoLDzAPfHM0UOc/giphy.gif" height="60">
-  * Advantages and limitations of the data structures and where they are used       
-  * Asymptotic notation
-  * Computer programming
-  * Data structures
-  * Debugging and troubleshooting
-  * Documentation
-  * How to analyse algorithms
-  * Integrated development environments (IDE)
-  * Iterative development
-  * Linked lists and arrays; stacks, queues; hash tables; graphs; trees
-  * Searching and sorting algorithms and their analysis
-  * The command-line interface (CLI)
-  * Time complexity theory
-  * Version control
-  
-<br>
+I am currently in my first year of studying B. Sc. Software Engineering at CODE University of Applied Sciences. I previously obtained my B. Soc. Sc. Geography + Environmental Sciences and Criminology at Monash University. Due to the time that has passed since obtaining my B. Soc. Sc. and how much the industry involving geography information systems has developed, I felt it was necessary to pursue more relevant and advantageous skills to better myself as a GIS specialist and to have the skill set to not only be able to use the tools available today, but develop them as well.
 
+
+ <img src="https://github.com/berlin-experiment/github-imgs/blob/master/uni-banner.png?raw=true" align="center" width="100%"> 
+
+
+* B.S. Software Engineering Student at <a href="https://code.berlin/en/">CODE University of Applied Sciences</a>. 
+* Previous Education + Qualifications:
+  * B.A. Criminology + Geography & Enviromental Sciences obtained at <a href="https://www.monash.edu/">Monash University</a>. 
+    * Specialising in geographical Information Systems.   
+
+
+<br>  
+<hr>
+ <img src="https://github.com/berlin-experiment/github-imgs/blob/master/sections.png?raw=true" align="center" width="100%" height="auto"> 
+
+# Projects in Progress:
 * I'm currenlty working on:
   - <a href="https://github.com/berlin-experiment/PoochPing">PoochPing</a>   
       <div align="justify"> 
@@ -72,54 +71,29 @@
       </div>
 <br>
 
+
+
 <div align="center">
-  <img src="https://github.com/berlin-experiment/github-imgs/blob/master/poochping.png"          height="400">
+  <img src="https://github.com/berlin-experiment/github-imgs/blob/master/imgs/poochping-gh.png?raw=true"          width="100%">
 </div>
+
+<br>
 
 <div align="center">
 Project Link <a href="https://berlin-experiment.github.io/PoochPing/">Here</a>  
 </div>
-
-<br>
-<br>
-
-   - <a href="https://github.com/berlin-experiment/greenratio-website-template.git">GREENRATIO</a>   
-        <div align="justify"> 
-        Basic Website Template. 
-        Create a website for a small start-up company.
-        </div>
-<br>
-
-<div align="center">
-  <img src="https://github.com/berlin-experiment/github-imgs/blob/master/sm-prev.png"          width="600">
-</div>
-
-
-<br>
-<br>
-
-* I’m interested in, (to only mentiona few): 
-  * Artificial Intelligence/Machine Learning
-  * Computer vision + Image processing
-  * Data Science + Big Data
-  * Geographical Information Systems <img src="https://media.giphy.com/media/TdozTm8E8x6eWaVs6N/giphy.gif" height="23"> 
-
-<br>
-<br>
-
-<div align="center">
-  This readME is still in progress...
-</div>
  
 <br>
 <br>
  
- <img src="https://github.com/berlin-experiment/github-imgs/blob/master/pngwing.com-5.png" width="100%"> 
+<hr>
+ <img src="https://github.com/berlin-experiment/github-imgs/blob/master/sections.png?raw=true" align="center" width="100%" height="auto"> 
   
 <hr>
 
 <div align="center">
-  <a href="mailto:staceykenny@outlook.com"><img src="https://img.icons8.com/nolan/64/email.png" height="70"/></a>
+  <a href="mailto:staceykenny@outlook.com"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/imgs/icons8-email-96.png?raw=true" height="70"/></a>
+  <a href="tel:+2781483646"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/imgs/icons8-whatsapp-96.png?raw=true" height="70"/></a>
   <br>
   Contact Me
 </div>
