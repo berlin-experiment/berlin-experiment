@@ -10,16 +10,20 @@
 </div>
 
 <div align="center">
-  
-  <img src="https://img.icons8.com/nolan/64/html-5.png" height="40"/>
-  <img src="https://img.icons8.com/nolan/50/css-filetype.png" height="40"/>
-  <img src="https://img.icons8.com/nolan/50/javascript.png" height="40"/>
-  <img src="https://img.icons8.com/nolan/64/python.png" height="40"/> 
-  <img src="https://img.icons8.com/nolan/50/mac-os.png" height="40"/>
-  <img src="https://img.icons8.com/nolan/64/linux--v2.png" height="40"/>
-  <img src="https://img.icons8.com/nolan/64/pycharm.png" height="40"/>
-  <img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png" height="40"/>
-  <img src="https://img.icons8.com/nolan/50/github.png" height="40"/>
+  <a href="https://html.com/html5/"><img src="https://img.icons8.com/nolan/64/html-5.png" height="30"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.icons8.com/nolan/50/css-filetype.png" height="30"/></a>
+  <a href="https://www.javascript.com/"><img src="https://img.icons8.com/nolan/50/javascript.png" height="30"/></a>
+  <a href="https://www.python.org/"><img src="https://img.icons8.com/nolan/64/python.png" height="30"/></a>
+  <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.icons8.com/nolan/64/pycharm.png" height="30"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png" height="30"/></a>
+  <a href="https://www.djangoproject.com/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/imgs/icons8-django-96.png?raw=true" height="30"/></a>
+  <a href="https://jquery.com/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/icons8-jquery-50.png?raw=true" height="30"/></a>
+  <a href="https://www.anaconda.com/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/icons8-anaconda-64.png?raw=true" height="30"/></a>
+  <a href="https://github.com/berlin-experiment"><img src="https://img.icons8.com/nolan/50/github.png" height="30"/></a> 
+  <a href="https://www.apple.com/macos/big-sur/"><img src="https://img.icons8.com/nolan/50/mac-os.png" height="30"/></a>
+  <a href="https://www.linux.org/"><img src="https://img.icons8.com/nolan/64/linux--v2.png" height="30"/></a>
+  <a href="https://www.microsoft.com/en-za"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/icons8-microsoft-50.png?raw=true" height="30"/></a>
+  <a href="https://www.raspberrypi.org/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/icons8-raspberry-pi-64.png?raw=true" height="30"/></a>
 </div>
 
 <hr>
@@ -53,25 +57,28 @@ I am currently in my first year of studying B. Sc. Software Engineering at CODE 
  <img src="https://github.com/berlin-experiment/github-imgs/blob/master/sections.png?raw=true" align="center" width="100%" height="auto"> 
 
 # Projects in Progress:
-* I'm currenlty working on:
-  - <a href="https://github.com/berlin-experiment/PoochPing">PoochPing</a>   
-      <div align="justify"> 
-      A native app for pet parents. 
-      When a user chooses to take their four-legged friend for an outing 
-      and allowing access to their location, and I feel the app should only 
-      be granted access while activated by the user, PoochPing will use this 
-      similarly to how runner apps are used to track progress and accurately 
-      track their live location, and at the same time calculate the distance 
-      between them and other users. This is used in conjunction with the color 
-      collar system to determine if the user should receive a push notification 
-      to alert them of a potential trigger for their dog, whether the other 
-      user has a smaller breed which your dog should avoid, a nervous dog 
-      that you need to be considerate of, or if the dog is listed as
-      "non-friendly" and all in the area need to practice a safe social distance. 
-      </div>
+
+<div align="center">
+<img src="https://github.com/berlin-experiment/github-imgs/blob/master/imgs/icons8-repository-96.png?raw=true" height="50"/>
+<a href="https://github.com/berlin-experiment/PoochPing"><h3>PoochPing<h3/></a>  
+</div>
+
+<div align="justify"> 
+  A native app for pet parents. 
+  When a user chooses to take their four-legged friend for an outing 
+  and allowing access to their location, and I feel the app should only 
+  be granted access while activated by the user, PoochPing will use this 
+  similarly to how runner apps are used to track progress and accurately 
+  track their live location, and at the same time calculate the distance 
+  between them and other users. This is used in conjunction with the color 
+  collar system to determine if the user should receive a push notification 
+  to alert them of a potential trigger for their dog, whether the other 
+  user has a smaller breed which your dog should avoid, a nervous dog 
+  that you need to be considerate of, or if the dog is listed as
+  "non-friendly" and all in the area need to practice a safe social distance. 
+</div>
 <br>
-
-
+<br> 
 
 <div align="center">
   <img src="https://github.com/berlin-experiment/github-imgs/blob/master/imgs/poochping-gh.png?raw=true"          width="100%">
@@ -92,8 +99,10 @@ Project Link <a href="https://berlin-experiment.github.io/PoochPing/">Here</a>
 <hr>
 
 <div align="center">
-  <a href="mailto:staceykenny@outlook.com"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/imgs/icons8-email-96.png?raw=true" height="70"/></a>
-  <a href="tel:+2781483646"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/imgs/icons8-whatsapp-96.png?raw=true" height="70"/></a>
+  <a href="mailto:staceykenny@outlook.com"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/imgs/icons8-email-96.png?raw=true"      height="30"/></a>
+  <a href="tel:"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/imgs/icons8-whatsapp-96.png?raw=true" height="30"/></a>
+  <a href="https://www.facebook.com/ynnek.yecats"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/icons8-instagram-64.png?raw=true" height="30"/></a>
+  <a href="https://www.instagram.com/berlin_experiment/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/icons8-facebook-64.png?raw=true" height="30"/></a>
   <br>
   Contact Me
 </div>
