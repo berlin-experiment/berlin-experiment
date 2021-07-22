@@ -37,6 +37,8 @@
 • Artificial Intelligence/Machine Learning • Computer vision + Image processing • Data Science + Big Data • Geographical Information Systems 
 </div>
 
+<br>  
+
  <img src="https://github.com/berlin-experiment/github-imgs/blob/master/interests-banner.png?raw=true" align="center" width="100%" height="auto"> 
 
 <br>  
@@ -105,7 +107,7 @@ Project Link <a href="https://berlin-experiment.github.io/PoochPing/">Here</a>
 
 <div align="center">
   <a href="mailto:staceykenny@outlook.com"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/imgs/icons8-email-96.png?raw=true"      height="30"/></a>
-  <a href="tel:"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/imgs/icons8-whatsapp-96.png?raw=true" height="30"/></a>
+  <a href="https://youtu.be/0H_NMEzjD3M"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/imgs/icons8-whatsapp-96.png?raw=true" height="30"/></a>
   <a href="https://www.facebook.com/ynnek.yecats"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/icons8-instagram-64.png?raw=true" height="30"/></a>
   <a href="https://www.instagram.com/berlin_experiment/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/icons8-facebook-64.png?raw=true" height="30"/></a>
   <br>
