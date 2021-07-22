@@ -4,7 +4,10 @@
   <img  src="https://media1.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=790b761146ac9a6793d2ef59478ce0d455b1a672eb60a7ff&rid=giphy.gif&ct=s" 
   alt="" width="150" height="150">
 
-  # _Hey, there! I'm Stacey_ <br> _& Welcome to my Github profile._
+  <img  src="https://github.com/berlin-experiment/github-imgs/blob/master/top-introTitle.gif?raw=true" 
+  alt="" width="400" height="auto">
+  
+  # _Welcome to my Github profile._
   ###### You might not find much here as I am new, but I am busy with many projects which I will make public soon. 
   ###### So keep coming back and you might find something you like... or don't, either way I'll be here.
 </div>
@@ -33,6 +36,8 @@
 <div align="center">
 • Artificial Intelligence/Machine Learning • Computer vision + Image processing • Data Science + Big Data • Geographical Information Systems 
 </div>
+
+ <img src="https://github.com/berlin-experiment/github-imgs/blob/master/interests-banner.png?raw=true" align="center" width="100%" height="auto"> 
 
 <br>  
 <hr> 
