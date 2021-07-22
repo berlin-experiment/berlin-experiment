@@ -19,9 +19,10 @@
   <a href="https://www.python.org/"><img src="https://img.icons8.com/nolan/64/python.png" height="30"/></a>
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.icons8.com/nolan/64/pycharm.png" height="30"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png" height="30"/></a>
+    <a href="https://www.anaconda.com/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/icons8-anaconda-64.png?raw=true" height="30"/></a>
   <a href="https://www.djangoproject.com/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/imgs/icons8-django-96.png?raw=true" height="30"/></a>
   <a href="https://jquery.com/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/icons8-jquery-50.png?raw=true" height="30"/></a>
-  <a href="https://www.anaconda.com/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/icons8-anaconda-64.png?raw=true" height="30"/></a>
+  <a href="https://leafletjs.com/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/icons8-leaf-48.png?raw=true" height="30"/></a> 
   <a href="https://github.com/berlin-experiment"><img src="https://img.icons8.com/nolan/50/github.png" height="30"/></a> 
   <a href="https://www.apple.com/macos/big-sur/"><img src="https://img.icons8.com/nolan/50/mac-os.png" height="30"/></a>
   <a href="https://www.linux.org/"><img src="https://img.icons8.com/nolan/64/linux--v2.png" height="30"/></a>
