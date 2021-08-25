@@ -13,25 +13,25 @@
 </div>
 
 <div align="center">
-  <a href="https://html.com/html5/"><img src="https://img.icons8.com/nolan/64/html-5.png" height="30"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.icons8.com/nolan/50/css-filetype.png" height="30"/></a>
-  <a href="https://www.javascript.com/"><img src="https://img.icons8.com/nolan/50/javascript.png" height="30"/></a>
-  <a href="https://www.python.org/"><img src="https://img.icons8.com/nolan/64/python.png" height="30"/></a>
-  <a href="https://jquery.com/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/icons8-jquery-50.png?raw=true" height="30"/></a>
-  <a href="https://leafletjs.com/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/icons8-leaf-48.png?raw=true" height="30"/></a>
-  <a href="https://www.anaconda.com/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/icons8-anaconda-64.png?raw=true" height="30"/></a>
-  <a href="https://www.djangoproject.com/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/icons8-django-50-cutout.png?raw=true" height="25"/></a>
-  <a href="https://geopandas.org/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/geopandas.png?raw=true" height="25"/></a>
-  <a href="https://geopy.readthedocs.io/en/stable/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/Screenshot%202021-07-22%20at%2020.37.47-cutout.png?raw=true" height="20"/></a>
-  <a href="https://www.apple.com/macos/big-sur/"><img src="https://img.icons8.com/nolan/50/mac-os.png" height="30"/></a>
-  <a href="https://www.linux.org/"><img src="https://img.icons8.com/nolan/64/linux--v2.png" height="30"/></a>
-  <a href="https://www.microsoft.com/en-za"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/icons8-microsoft-50.png?raw=true" height="30"/>   </a>
-  <a href="https://www.raspberrypi.org/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/icons8-raspberry-pi-64.png?raw=true" height="30"/>   </a>
-  <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.icons8.com/nolan/64/pycharm.png" height="30"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png" height="30"/></a>
-  <a href="https://qgis.org/en/site/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/512px-QGIS_logo_new.svg.png?raw=true" height="30"/>     </a>
-  <a href="https://www.esri.com/en-us/home/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/ESRI_logo_logotype-700x286.png?raw=true"         height="30"/></a>
-  <a href="https://github.com/berlin-experiment"><img src="https://img.icons8.com/nolan/50/github.png" height="30"/></a> 
+  <a href="https://html.com/html5/"><img src="https://img.icons8.com/nolan/64/html-5.png" height="15"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.icons8.com/nolan/50/css-filetype.png" height="15"/></a>
+  <a href="https://www.javascript.com/"><img src="https://img.icons8.com/nolan/50/javascript.png" height="15"/></a>
+  <a href="https://www.python.org/"><img src="https://img.icons8.com/nolan/64/python.png" height="15"/></a>
+  <a href="https://jquery.com/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/icons8-jquery-50.png?raw=true" height="15"/></a>
+  <a href="https://leafletjs.com/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/icons8-leaf-48.png?raw=true" height="15"/></a>
+  <a href="https://www.anaconda.com/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/icons8-anaconda-64.png?raw=true" height="15"/></a>
+  <a href="https://www.djangoproject.com/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/icons8-django-50-cutout.png?raw=true" height="15"/></a>
+  <a href="https://geopandas.org/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/geopandas.png?raw=true" height="15"/></a>
+  <a href="https://geopy.readthedocs.io/en/stable/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/Screenshot%202021-07-22%20at%2020.37.47-cutout.png?raw=true" height="15"/></a>
+  <a href="https://www.apple.com/macos/big-sur/"><img src="https://img.icons8.com/nolan/50/mac-os.png" height="15"/></a>
+  <a href="https://www.linux.org/"><img src="https://img.icons8.com/nolan/64/linux--v2.png" height="15"/></a>
+  <a href="https://www.microsoft.com/en-za"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/icons8-microsoft-50.png?raw=true" height="15"/>   </a>
+  <a href="https://www.raspberrypi.org/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/icons8-raspberry-pi-64.png?raw=true" height="15"/>   </a>
+  <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.icons8.com/nolan/64/pycharm.png" height="15"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png" height="15"/></a>
+  <a href="https://qgis.org/en/site/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/512px-QGIS_logo_new.svg.png?raw=true" height="15"/>     </a>
+  <a href="https://www.esri.com/en-us/home/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/ESRI_logo_logotype-700x286.png?raw=true"         height="15"/></a>
+  <a href="https://github.com/berlin-experiment"><img src="https://img.icons8.com/nolan/50/github.png" height="15"/></a> 
 </div>
 
 <hr>
