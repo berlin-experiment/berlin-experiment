@@ -3,56 +3,33 @@
   
   <img  src="https://media1.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=790b761146ac9a6793d2ef59478ce0d455b1a672eb60a7ff&rid=giphy.gif&ct=s" 
   alt="" width="150" height="150">
-
-  <img  src="https://github.com/berlin-experiment/github-imgs/blob/master/top-introTitle.gif?raw=true" 
-  alt="" width="400" height="auto">
   
   # _Welcome to my Github profile._
   ###### You might not find much here as I am new, but I am busy with many projects which I will make public soon. 
   ###### So keep coming back and you might find something you like... or don't, either way I'll be here.
 </div>
-
-
+<br>  
 <hr>
- <img src="https://github.com/berlin-experiment/github-imgs/blob/master/sections.png?raw=true" align="center" width="100%" height="auto"> 
  
 ## Interests
 <div align="center">
 • Artificial Intelligence/Machine Learning • Computer vision + Image processing • Data Science + Big Data • Geographical Information Systems 
 </div>
-
-<br>  
-
- <img src="https://github.com/berlin-experiment/github-imgs/blob/master/interests-banner.png?raw=true" align="center" width="100%" height="auto"> 
-
 <br>  
 <hr> 
- <img src="https://github.com/berlin-experiment/github-imgs/blob/master/sections.png?raw=true" align="center" width="100%" height="auto"> 
- 
+
 # A bit of Background...
 
 I am currently in my first year of studying B. Sc. Software Engineering at CODE University of Applied Sciences. I previously obtained my B. Soc. Sc. Geography + Environmental Sciences and Criminology at Monash University. Due to the time that has passed since obtaining my B. Soc. Sc. and how much the industry involving geography information systems has developed, I felt it was necessary to pursue more relevant and advantageous skills to better myself as a GIS specialist and to have the skill set to not only be able to use the tools available today, but develop them as well.
-
-
- <img src="https://github.com/berlin-experiment/github-imgs/blob/master/uni-banner.png?raw=true" align="center" width="100%"> 
-
 
 * B.S. Software Engineering Student at <a href="https://code.berlin/en/">CODE University of Applied Sciences</a>. 
 * Previous Education + Qualifications:
   * B.A. Criminology + Geography & Enviromental Sciences obtained at <a href="https://www.monash.edu/">Monash University</a>. 
     * Specialising in geographical Information Systems.   
-
-
 <br>  
 <hr>
- <img src="https://github.com/berlin-experiment/github-imgs/blob/master/sections.png?raw=true" align="center" width="100%" height="auto"> 
 
 # Projects in Progress:
-
-<div align="center">
-<img src="https://github.com/berlin-experiment/github-imgs/blob/master/imgs/icons8-repository-96.png?raw=true" height="50"/>
-<a href="https://github.com/berlin-experiment/PoochPing"><h3>PoochPing<h3/></a>  
-</div>
 
 <div align="justify"> 
   A native app for pet parents. 
@@ -69,32 +46,4 @@ I am currently in my first year of studying B. Sc. Software Engineering at CODE 
   "non-friendly" and all in the area need to practice a safe social distance. 
 </div>
 <br>
-<br> 
-
-<div align="center">
-  <img src="https://github.com/berlin-experiment/github-imgs/blob/master/imgs/poochping-gh.png?raw=true"          width="100%">
-</div>
-
-<br>
-
-<div align="center">
-Project Link <a href="https://berlin-experiment.github.io/PoochPing/">Here</a>  
-</div>
- 
-<br>
-<br>
- 
 <hr>
- <img src="https://github.com/berlin-experiment/github-imgs/blob/master/sections.png?raw=true" align="center" width="100%" height="auto"> 
-  
-<hr>
-
-<div align="center">
-  <a href="mailto:staceykenny@outlook.com"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/imgs/icons8-email-96.png?raw=true"      height="30"/></a>
-  <a href="http://www.partridgegetslucky.com/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/imgs/icons8-whatsapp-96.png?raw=true" height="30"/></a>
-  <a href="https://www.facebook.com/ynnek.yecats"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/icons8-instagram-64.png?raw=true" height="30"/></a>
-  <a href="https://www.instagram.com/berlin_experiment/"><img src="https://github.com/berlin-experiment/github-imgs/blob/master/icons8-facebook-64.png?raw=true" height="30"/></a>
-  <br>
-  Contact Me
-</div>
-
