@@ -31,7 +31,8 @@ I am currently in my first year of studying B. Sc. Software Engineering at CODE 
 
 - B.S. Software Engineering Student at <a href="https://code.berlin/en/">CODE University of Applied Sciences</a>.
 - Previous Education + Qualifications:
-  - B.A. Criminology + Geography & Enviromental Sciences obtained at <a href="https://www.monash.edu/">Monash University</a>. \* Specialising in geographical Information Systems.
+  - B.A. Criminology + Geography & Enviromental Sciences obtained at <a href="https://www.monash.edu/">Monash University</a>. 
+  - \* Specialising in geographical Information Systems.
 
 <br>
 <hr>
