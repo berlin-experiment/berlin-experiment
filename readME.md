@@ -166,7 +166,7 @@ I am currently in my first year of studying B. Sc. Software Engineering at CODE 
 
 <br>
 <div align="center">
-<img alt-txt="PoochPIng Concept Design" src="https://github.com/berlin-experiment/readme-files/raw/master/imgs/poochping/poochping-img.png" width="300px">
+<img alt-txt="PoochPIng Concept Design" src="https://github.com/berlin-experiment/readme-files/raw/master/imgs/poochping/poochping-img.png" width="250px">
 </div>
 <br>
 
