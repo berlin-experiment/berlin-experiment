@@ -83,7 +83,7 @@ I am currently in my first year of studying B. Sc. Software Engineering at CODE 
 
 <br>
 <div align="center">
-<img alt-txt="Press Play Preview" src="https://github.com/berlin-experiment/readme-files/raw/master/imgs/alien-invaders/pygame-preview.png" width="680px">
+<img alt-txt="Game Preview" src="https://github.com/berlin-experiment/readme-files/blob/master/imgs/alien-invaders/game-preview.gif" width="400px">
 </div>
 <br>
 
