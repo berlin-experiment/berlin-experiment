@@ -43,11 +43,39 @@ I am currently in my first year of studying B. Sc. Software Engineering at CODE 
 
 <br>
 <div align="center">
-<img alt-txt="CODE_META Concept Design" src="https://github.com/berlin-experiment/readme-files/raw/master/imgs/code-meta/code-meta.jpeg" width="680px">
+<img alt-txt="CODE_META Concept Design" src="https://github.com/berlin-experiment/readme-files/raw/master/imgs/code-meta/code-meta.jpeg" width="680px"><br>
+<img alt-txt="CODE_META Purpose Concept Design" src="https://github.com/berlin-experiment/readme-files/blob/master/imgs/code-meta/camera-purpose.png" height="214px">
+<img alt-txt="CODE_META View Concept Design" src="https://github.com/berlin-experiment/readme-files/blob/master/imgs/code-meta/camera-view.png" height="214px">
+  
+  
 </div>
 <br>
 
 > By experimenting with prototype driven research we aim to better understand how digital and physical educational spaces might affect connection and a sense of presence between students on and off-campus (specifically CODE campus) environment, and improve the virtual experience.
+> The aspect I would like to focus on is how the campus in real life has certain sounds that give it life and add to the idea of it being an authentic experience. There is either no sound at all or some track on repeat, very dull and predictable, so it becomes apparent very quickly it is fake.
+> Another member and I spoke about live streaming the sounds, but because of privacy issues, permanent equipment required, and the high chance that it just sounds like a muffled mess when it is busy I feel prerecorded audio clips would be best.
+> 
+> Factors to consider when selecting the sound clips and audio layering of the loops:
+> 
+> - Time of day
+> - Which rooms and how is the room normally used
+> - The amount of traffic the room/area gets (People + Pets)
+> - What equipment is in the room and how does it sound; instruments or tools
+> - Current number of people in the room
+>
+> My idea is if we prerecorded sounds at the campus in isolation (as much as possible), edited them appropriately, and create audio loops that can be layered - this might make more sense later or might not - to replicate the ambient sounds of CODE. I would have small cameras in certain parts of the campus and use object detection to pick up how many people are in a room:
+>
+> - If two people are in the kitchen area, the loop layers would be fridge humming, soft keyboard noises, and soft indistinguishable conversation.
+> - If 7 people are in the area, the loop layer would be slightly louder indistinguishable conversation and laughter, the occasional sound of cups placed on counters, maybe if a cam is by the piano, for example, some piano can be played.
+> - Or something like this to set the scene of each room and link the virtual campus to the real one through sound.
+>
+> But basically, object detection to see how many people are in a given room, take into account the time of day and play the appropriate layers and combinations for the situation.
+> 
+> Learning Goals
+> Build on existing coding skills with [C programming](https://en.wikipedia.org/wiki/C_(programming_language)) and [C++.](https://en.wikipedia.org/wiki/C%2B%2B)
+> Learn more about [metaverse](https://www.wired.com/story/what-is-the-metaverse/) concepts and applications.
+> Better my understanding of the gap between the [virtual experience](https://www.iberdrola.com/innovation/virtual-reality) and the real-world experience and how to potentially bridge it.
+> Develop the knowledge and skillset to design [schematic diagrams](https://www.analog.com/en/analog-dialogue/studentzone/studentzone-february-2017.html#:~:text=I%20like%20the,in%20the%20circuit.%E2%80%9D).
 
 <br>
 
@@ -86,6 +114,47 @@ I am currently in my first year of studying B. Sc. Software Engineering at CODE 
 > - Return a different message to the user based on the outcome of the game.
 > - Bonus: Use functions to allow the user to repeat the game.
 >   The Repo can be found [here.](https://github.com/berlin-experiment/Task01-foundations-spring2022-module-SE01-SE19)
+
+<br>
+
+## Joker Bot
+
+<br>
+<div align="center">
+<img alt-txt="Joker bot in action" src="https://github.com/berlin-experiment/readme-files/blob/master/imgs/joker-bot/ezgif.com-gif-maker.gif" width="680px">
+</div>
+<br>
+
+> Simple joke bot for weekly assessment.
+> Task Requirements:
+> - The bot can return either the full list of jokes or 
+> - Asks the user to pick a category when they choose to go with a single random joke. 
+
+<br>
+
+## Text Arena Game
+
+<br>
+<div align="center">
+<img alt-txt="Text Arena game in action" src="https://github.com/berlin-experiment/readme-files/blob/master/imgs/text-arena-game/text-arena-gamegif.gif" width="680px">
+</div>
+<br>
+
+> Simple text arena game for weekly assessment.
+> Task Requirements: 
+> 
+> - In the game, the player has to face at least 3 different opponents in fights.
+> - Each fight can take multiple rounds. 
+> - Within a round, the player gets to choose whether to defend or attack. 
+> - If the player attacks, a certain amount of damage is dealt to the opponent. 
+> - Opponents attack every round as long as they are alive. 
+> - If the player chooses to defend, no damage is dealt to the opponent. 
+> - Instead, the damage the opponent deals the player is cut in half.
+> - The player and each of the opponents have a certain amount of health points (HP) represented as an integer (number). 
+> - If the value drops to or below 0, the player or opponent is defeated.
+> - The amount of damage a player or opponent deals is limited by a maximum damage per character. 
+> - When a player or opponent attacks, a random damage value is generated between 1 and the maximum damage. 
+> - The game is lost if the player dies. The game is won if all opponents have been defeated. 
 
 <br>
 
