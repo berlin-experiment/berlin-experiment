@@ -153,6 +153,7 @@ I am currently in my first year of studying B. Sc. Software Engineering at CODE 
 <br>
 
 > A native app for pet parents. When a user chooses to take their four-legged friend for an outing and allowing access to their location, and I feel the app should only be granted access while activated by the user, PoochPing will use this similarly to how runner apps are used to track progress and accurately track their live location, and at the same time calculate the distance between them and other users. This is used in conjunction with the color collar system to determine if the user should receive a push notification to alert them of a potential trigger for their dog, whether the other user has a smaller breed which your dog should avoid, a nervous dog that you need to be considerate of, or if the dog is listed as "non-friendly" and all in the area need to practice a safe social distance.
+>   The Repo can be found [here.](https://github.com/berlin-experiment/PoochPing)
 
 <br>
 <hr>
