@@ -51,25 +51,7 @@ I am currently in my first year of studying B. Sc. Software Engineering at CODE 
 </div>
 <br>
 
-> By experimenting with prototype driven research we aim to better understand how digital and physical educational spaces might affect connection and a sense of presence between students on and off-campus (specifically CODE campus) environment, and improve the virtual experience.
-> The aspect I would like to focus on is how the campus in real life has certain sounds that give it life and add to the idea of it being an authentic experience. There is either no sound at all or some track on repeat, very dull and predictable, so it becomes apparent very quickly it is fake.
-> Another member and I spoke about live streaming the sounds, but because of privacy issues, permanent equipment required, and the high chance that it just sounds like a muffled mess when it is busy I feel prerecorded audio clips would be best.
-> 
-> Factors to consider when selecting the sound clips and audio layering of the loops:
-> 
-> - Time of day
-> - Which rooms and how is the room normally used
-> - The amount of traffic the room/area gets (People + Pets)
-> - What equipment is in the room and how does it sound; instruments or tools
-> - Current number of people in the room
->
-> My idea is if we prerecorded sounds at the campus in isolation (as much as possible), edited them appropriately, and create audio loops that can be layered - this might make more sense later or might not - to replicate the ambient sounds of CODE. I would have small cameras in certain parts of the campus and use object detection to pick up how many people are in a room:
->
-> - If two people are in the kitchen area, the loop layers would be fridge humming, soft keyboard noises, and soft indistinguishable conversation.
-> - If 7 people are in the area, the loop layer would be slightly louder indistinguishable conversation and laughter, the occasional sound of cups placed on counters, maybe if a cam is by the piano, for example, some piano can be played.
-> - Or something like this to set the scene of each room and link the virtual campus to the real one through sound.
->
-> But basically, object detection to see how many people are in a given room, take into account the time of day and play the appropriate layers and combinations for the situation.
+> A group based project divided into sub-projects. I worked on designing, building and testing prototypes for the Audio team. My project used various camera modules and webcams paired with OpenCV and Darknet YOLO object detection to count the number of individuals in a given space and play the appropriate sound loop which is layered based on the number of people detected within the space. In its early stages of development, the project sought to translate the audio environment of the actual world into the meta campus by counting the number of people in a certain area of the university campus and outputting the desired audio loop in the meta version of the campus. As time went on, my modules for this project ended and more recent prototypes were employed to replicate wildlife ambient rather than the planned office setting.A group based project divided into sub-projects. I worked on designing, building and testing prototypes for the Audio team. My project used various camera modules and webcams paired with OpenCV and Darknet YOLO object detection to count the number of individuals in a given space and play the appropriate sound loop which is layered based on the number of people detected within the space. In its early stages of development, the project sought to translate the audio environment of the actual world into the meta campus by counting the number of people in a certain area of the university campus and outputting the desired audio loop in the meta version of the campus. As time went on, my modules for this project ended and more recent prototypes were employed to replicate wildlife ambient rather than the planned office setting.
 > 
 > Learning Goals
 > Build on existing coding skills with [C programming](https://en.wikipedia.org/wiki/C_(programming_language)) and [C++.](https://en.wikipedia.org/wiki/C%2B%2B)
