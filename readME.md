@@ -39,6 +39,28 @@ I am currently in my first year of studying B. Sc. Software Engineering at CODE 
 
 # Academic Projects:
 
+## GISart
+
+<br>
+<div align="center">
+  <a href="https://gisart.herokuapp.com/home">
+  <img src="https://github.com/berlin-experiment/readme-files/blob/master/imgs/gisart-blog-site/Main%20Desktop.png?raw=true" alt="Mock Up Design of Product"></a>
+</div>
+  
+</div>
+<br>
+
+> A Flask visual blog application for users to upload and share satellite, remote sensing, or cartographic photos on this website. The USGS's photographic posts on Unsplash served as the site's primary source of inspiration.
+> A geographic information system is a type of database that combines software tools for managing, analysing, and displaying geographic data with the database itself. GIS connects data to a map and combines all kinds of descriptive data with location data. This offers a basis for mapping and analysis, which are applied in science and practically every sector of the economy. These visualisations can be artistic as well as analytical and functional. Utilize the GIS tools and your creativity or curiosity to change the way we can see the world and share the results on the GISart site.
+> Alternatively, fork this repo and create a visual blog site of your own.
+
+<div align="center">
+  <a href="https://gisart.herokuapp.com/home">Demo Link</a> | 
+    <a href="https://github.com/berlin-experiment">Project Repo</a>
+</div>
+
+<br>
+
 ## CODE:META
 
 <br>
