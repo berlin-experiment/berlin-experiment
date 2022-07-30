@@ -56,7 +56,7 @@ I am currently in my first year of studying B. Sc. Software Engineering at CODE 
 
 <div align="center">
   <a href="https://gisart.herokuapp.com/home">Demo Link</a> | 
-    <a href="https://github.com/berlin-experiment">Project Repo</a>
+    <a href="https://github.com/berlin-experiment/GISart_Blog">Project Repo</a>
 </div>
 
 <br>
